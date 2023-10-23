@@ -1,0 +1,5 @@
+Bomber, B-52, 595, 8800, 84000000
+Stealth fighter, F35, 1228, 1350, 200000000
+Passenger Transport, Boeing 747, 300, 500, 1200000
+Stealth fighter, Black Project: Aurora, 17647, 500000, 130000000
+Bomber, B-2, 625, 6000, 1000000000
